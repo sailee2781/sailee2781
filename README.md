@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sailee Kadam
 - 👀 I’m interested in Web Development, Cloud Technologies and Problem Solving 
+  I have done multiple projects in domains like Deep Learning, Computer Vision and Web Development
 - 🌱 I’m currently learning Cloud Technologies and working on problem solving
 - 
 
